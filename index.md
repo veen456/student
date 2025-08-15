@@ -15,9 +15,9 @@ Hi! My name is Vihaan Budhraja.
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
 | Scrum Master | John     | github.com/jm1021/student           | upstream (OCS fork)   | student   |
-| Scrummer     | Torin    | github.com/torin/student            | downstream (fork)     | student   |
-| Scrummer     | Avantika | github.com/avantika/student         | downstream (fork)     | student   |
-| Scrummer     | Aadit    | github.com/aaadit/student           | downstream (fork)     | student   |
+| Scrummer     | Vihaan    | github.com/veen456/student            | downstream (fork)     | student   |
+| Scrummer     | Krish | github.com/TheCoder203/student         | downstream (fork)     | student   |
+| Scrummer     | Pranay    | github.com/pkdev0101/student           | downstream (fork)     | student   |
 
 
 ## Links to Learning
