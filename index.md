@@ -10,7 +10,7 @@ Hi! My name is Vihaan Budhraja
 ### Me and Team
 >>>>>>> 88d85876cd6768a598b02407651397a8d1dba798
 
-Hi! My name is [Vihaan Budhraja].
+Hi! My name is Vihaan Budhraja.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
