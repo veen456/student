@@ -1,5 +1,5 @@
 ---
-toc: True
+toc: False
 layout: post
 data: tools
 title: Jupyter Notebooks
@@ -7,7 +7,7 @@ description: Learn how to create and run Jupyter Notebooks
 categories: ['DevOps']
 permalink: /blogs/jupyternb
 breadcrumb: True
-author: veen456
+author: Vihaan Budhraja
 ---
 
 Tools and equipment can be an effective way to implement things into your machines, which you otherwise wouldn’t be able to do.
